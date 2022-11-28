@@ -1,0 +1,30 @@
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 60%;
+    margin-left: 17.5rem;
+    padding: 1rem;
+}
+
+h1{
+    text-align: center;
+    background-color: yellow;
+    padding: 1rem;
+}
+
+textarea{
+    text-align: center;
+    width: 60%;
+    margin-left: 18rem;
+}
+
+
+.outputHeading{
+    font-size: large;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+#btn-translate{
+    margin-left: 47%;
+}
