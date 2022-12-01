@@ -4,6 +4,11 @@
     width: 60%;
     margin-left: 17.5rem;
     padding: 1rem;
+    background-color: white;
+}
+
+body{
+    background-color: yellow;
 }
 
 h1{
