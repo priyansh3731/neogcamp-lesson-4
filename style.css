@@ -2,34 +2,42 @@
     border: 1px solid black;
     height: 10vh;
     width: 60%;
-    margin-left: 17.5rem;
+    margin: auto;
     padding: 1rem;
     background-color: white;
 }
 
 body{
-    background-color: yellow;
+    background-image: url(minions.jpg);
+    text-align: center;
 }
 
 h1{
     text-align: center;
-    background-color: yellow;
     padding: 1rem;
 }
 
 textarea{
     text-align: center;
-    width: 60%;
-    margin-left: 18rem;
+    width: 40%;
+    margin: 1rem;
 }
 
 
 .outputHeading{
-    font-size: large;
-    margin-left: 45%;
-    margin-top: 5%;
+    text-align: center;
+    padding: 2rem;
 }
 
 #btn-translate{
-    margin-left: 47%;
+    display: flex;
+    margin: auto;
+    background-color: black;
+    color: white;
+    border-radius: 1rem;
+    width: 6rem;
+    height: 2rem;
+    text-align: center;
+    padding: 0.2rem 0 0 0.8rem;
+    font-size: large;
 }
